@@ -3,8 +3,4 @@ preco = float(input("Digite o preço do produto:\n > "))
 
 v_final = preco - (preco * 5/100) 
 
-
-
-
-
 print(f"O produto que custava R${preco}, na promoção com 5% de desconto, vai custar R${v_final}.")
